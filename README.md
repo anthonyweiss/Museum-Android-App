@@ -4,3 +4,4 @@ Created using API Level 30: Android 10.0+ (R), with Pixel 3 XL API 29/30 (either
 
 Below is the Main Activity, or the first/primary screen you see when opening the app.
 ![Activity 1](https://user-images.githubusercontent.com/68719173/101698516-99a8d600-3a47-11eb-8fbc-fac096f8f427.PNG)
+  
